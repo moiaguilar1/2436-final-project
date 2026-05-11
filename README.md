@@ -9,7 +9,7 @@ Moises Aguilar - COSC 2436, 2026
 
 ## Description
 This portfolio covers all lab and lab-related work done throughout the semester.
-My goals for this semester was to better understand how algorithms work in
+My goals for this semester were to better understand how algorithms work in
 computer science, and how to create my own implementations of various  data
 structures and algorithms.
 
